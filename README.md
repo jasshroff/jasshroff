@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Engineer and B.Tech AI/ML student with hands-on experience shipping production web applications using TypeScript, React.js, Node.js, Python, and MongoDB. Proven ability to build real-time, AI-integrated platforms, design RESTful APIs, and iterate rapidly across the full stack. Excited by Orchids' mission to make app-building accessible to everyone through AI.
+Full Stack Engineer and B.Tech AI/ML student with hands-on experience shipping production web applications using TypeScript, React.js, Node.js, Python, and MongoDB. Proven ability to build real-time, AI-integrated platforms, design RESTful APIs, and iterate rapidly across the full stack. 
 
 
 ## 🌐 Socials:
